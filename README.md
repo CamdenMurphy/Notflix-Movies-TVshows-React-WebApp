@@ -1,3 +1,15 @@
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# Notflix-Movies-TVshows-React-WebApp
+This is a Netflix-style web app that allows users to search for movies and TV shows with information about them. 
+
+The data is retrieved from the OMDb API at http://www.omdbapi.com. 
+
+This project follows a React JS course I watched to learn the basics of web development. The author of the course is JavaScript Mastery on YouTube.
+Course Link: https://youtu.be/b9eMGE7QtTk?list=PLq173y7rvPkEZYTrvvDE2oSWs63xpPWVR
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
